@@ -1,3 +1,12 @@
+.global_gradle/caches/
+.global_gradle/daemon/
+.global_gradle/native/
+.global_gradle/workers/
+.global_gradle/wrapper/
+.gradle/
+.vscode/
+
+
 # Common
 *~*
 tmp/
