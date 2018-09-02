@@ -1,6 +1,0 @@
-{
-  "name": "OpenLauncher",
-  "tagline": "Android open source launcher project (Active) ",
-  "body": "### Welcome\r\nThis is an open source Android launcher project.\r\n\r\n###Aim\r\nWe aim to create every thing from scratch and provide a fully customizable experience to user(a long way to go). I truly hope that this can become a community driven project. \r\n\r\n### Features\r\nCurrently it has a desktop , dock and app drawer component, and the app are draggable from dock to desktop, just like the normal launcher, but more will be added soon, supporting many more standard Android launcher function.\r\n\r\nTo know more, go to the GitHub page and get involved now. Yeah.  \r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
